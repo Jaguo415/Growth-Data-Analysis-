@@ -35,13 +35,26 @@ While this Data is great for summarization. It is unfortunatly is not in a compu
 <img width="1612" alt="Screen Shot 2022-01-17 at 7 52 20 AM" src="https://user-images.githubusercontent.com/83923903/149802541-0eaecac7-2b8b-47ba-8a45-1c85c5688746.png">
 
 ### We Combine Worksheets to make Dashboards
+
+#### Dashboard 1 of 3
 <img width="1448" alt="Screen Shot 2022-01-17 at 7 54 50 AM" src="https://user-images.githubusercontent.com/83923903/149802715-3e1427e3-67cc-4ee7-adb0-44662e68ddd6.png">
+
+#### Dashboard 2 of 3
+<img width="1117" alt="Screen Shot 2022-01-17 at 7 55 00 AM" src="https://user-images.githubusercontent.com/83923903/149804153-dc5bc334-f86f-4a8a-98f4-0fbdd9e35751.png">
+
+
+### Dashboard 3 of 3
+<img width="652" alt="Screen Shot 2022-01-17 at 7 55 07 AM" src="https://user-images.githubusercontent.com/83923903/149804252-2480b8f4-9644-429a-9559-4b2257ee43df.png">
 
 
 
 ### We combine Worksheets into a 3 Dashboard and put them together to make 1 Storyboard
 
 <img width="1016" alt="Screen Shot 2022-01-17 at 7 55 33 AM" src="https://user-images.githubusercontent.com/83923903/149802049-7be6998c-e7e6-4578-9db0-503589f7bb68.png">
+
+### Tableau summary
+* Its important that we think about scalability when creating these dashboard. Tableau is a tool that helps us build a skeleton for our data. For example We don't have regions in our dataset. But if we did, we can keep the exact data structure/format. By Adding just 1 additional column called "region". We now have a dashboard that can work for AMER, APAC, EMEA, specific regions. Its important for a Data analyst to view the long term. So we build it with scalability in mind. I often wonder What else can I do, to remove annoying repetative task, and get the most out of my time. 
+
 
 ### Now that we Have our Data analysed. We Create a Slide deck, and present it to Jons team.
 Link to Slide: https://docs.google.com/presentation/d/17ce9KiKSgZ65X4M__muh_WqOsW0TA56gl0iZ8Brbu6E/edit#slide=id.g10d5b06f965_0_65
