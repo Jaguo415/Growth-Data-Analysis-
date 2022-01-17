@@ -34,10 +34,27 @@ Now that the structural format is fixed, and some calculations perofrmed. We can
 ### We build new visuals/metrics in Tableau Worksheets. Total of 13 Worksheets.
 <img width="1612" alt="Screen Shot 2022-01-17 at 7 52 20 AM" src="https://user-images.githubusercontent.com/83923903/149802541-0eaecac7-2b8b-47ba-8a45-1c85c5688746.png">
 
+### We Combine Worksheets to make Dashboards
+<img width="1448" alt="Screen Shot 2022-01-17 at 7 54 50 AM" src="https://user-images.githubusercontent.com/83923903/149802715-3e1427e3-67cc-4ee7-adb0-44662e68ddd6.png">
+
+
 
 ### We combine Worksheets into a 3 Dashboard and put them together to make 1 Storyboard
 
 <img width="1016" alt="Screen Shot 2022-01-17 at 7 55 33 AM" src="https://user-images.githubusercontent.com/83923903/149802049-7be6998c-e7e6-4578-9db0-503589f7bb68.png">
+
+### Now that we Have our Data analysed. We Create a Slide deck.
+
+## TLDR of Slide Deck
+* Widget is our fastest growing product With the highest User increase this year.
+* Data Cruncher is our fastest growing revenue product this year.
+* Based on our data, We identified anticipated attrition, we can work with CSG to target which products will attrit.
+* we can upsell our 3 highest rated productscertain products. Jack recommends we sell while users are using the widget app.
+* 3 month free promotion. We should promote a free 3 month promotion, for 1 year of subscription. Jack has calculated how much additional revenue this would make, on avearge Per product.
+<img width="365" alt="Screen Shot 2022-01-17 at 8 04 32 AM" src="https://user-images.githubusercontent.com/83923903/149803213-aa691487-afad-4489-a17b-9b5d89611a0d.png">
+
+
+
 
 
 
