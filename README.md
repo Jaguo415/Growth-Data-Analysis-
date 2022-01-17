@@ -53,7 +53,9 @@ While this Data is great for summarization. It is unfortunatly is not in a compu
 <img width="1016" alt="Screen Shot 2022-01-17 at 7 55 33 AM" src="https://user-images.githubusercontent.com/83923903/149802049-7be6998c-e7e6-4578-9db0-503589f7bb68.png">
 
 ### Tableau summary
-* Its important that we think about scalability when creating these dashboard. Tableau is a tool that helps us build a skeleton for our data. For example We don't have regions in our dataset. But if we did, we can keep the exact data structure/format. By Adding just 1 additional column called "region". We now have a dashboard that can work for AMER, APAC, EMEA, specific regions. Its important for a Data analyst to view the long term. So we build it with scalability in mind. I often wonder What else can I do, to remove annoying repetative task, and get the most out of my time. 
+* Its important that we think about scalability when creating these dashboard. Tableau is a tool that helps us build a skeleton for our data. 
+
+For example We don't have regions in our dataset. But if we did, we can keep the exact data structure/format. By Adding just 1 additional column called "region". We now have a dashboard that can work for AMER, APAC, EMEA, specific regions. Its important for a Data analyst to view the long term. So we build it with scalability in mind. I often wonder What else can I do, to remove annoying repetative task, and get the most out of my time. 
 
 
 ### Now that we Have our Data analysed. We Create a Slide deck, and present it to Jons team.
@@ -67,10 +69,4 @@ Link to Slide: https://docs.google.com/presentation/d/17ce9KiKSgZ65X4M__muh_WqOs
 * we can upsell our 3 highest rated productscertain products. Jack recommends we sell while users are using the widget app because this is where all our new users.
 * 3 month free promotion. We should promote a free 3 month promotion, for 1 year of subscription. Jack has calculated how much additional revenue this would make, on avearge Per product.
 <img width="365" alt="Screen Shot 2022-01-17 at 8 04 32 AM" src="https://user-images.githubusercontent.com/83923903/149803213-aa691487-afad-4489-a17b-9b5d89611a0d.png">
-
-
-
-
-
-
 
