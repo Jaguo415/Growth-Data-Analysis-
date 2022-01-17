@@ -67,6 +67,6 @@ Link to Slide: https://docs.google.com/presentation/d/17ce9KiKSgZ65X4M__muh_WqOs
 * Sales RVP needs to set quotas on a number of Products. Otherwise, will not meet revenue goals. 
 * Based on our data, We identified anticipated attrition of existing customers, we must work with CSG to target which products are going to attrition.
 * we can upsell our 3 highest rated productscertain products. Jack recommends we sell while users are using the widget app because this is where all our new users.
-* 3 month free promotion. We should promote a free 3 month promotion, for 1 year of subscription. Jack has calculated how much additional revenue this would make, on avearge Per product.
+* 3 month free promotion. We should promote a free 3 month promotion, for 1 year of subscription. (account pays 9 months) Jack has calculated how much additional revenue this would make, on avearge Per product.
 <img width="365" alt="Screen Shot 2022-01-17 at 8 04 32 AM" src="https://user-images.githubusercontent.com/83923903/149803213-aa691487-afad-4489-a17b-9b5d89611a0d.png">
 
