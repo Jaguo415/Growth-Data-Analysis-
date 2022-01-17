@@ -44,6 +44,7 @@ Now that the structural format is fixed, and some calculations perofrmed. We can
 <img width="1016" alt="Screen Shot 2022-01-17 at 7 55 33 AM" src="https://user-images.githubusercontent.com/83923903/149802049-7be6998c-e7e6-4578-9db0-503589f7bb68.png">
 
 ### Now that we Have our Data analysed. We Create a Slide deck, and present it to Jons team.
+Link to Slide: https://docs.google.com/presentation/d/17ce9KiKSgZ65X4M__muh_WqOsW0TA56gl0iZ8Brbu6E/edit#slide=id.g10d5b06f965_0_65
 
 ## TLDR of Slide Deck
 * Widget is our fastest growing product With the highest User increase this year.
