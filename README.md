@@ -5,11 +5,11 @@ Growth Data Analysis
 
 <img width="1039" alt="Screen Shot 2022-01-17 at 7 27 42 AM" src="https://user-images.githubusercontent.com/83923903/149799055-02eb5196-2e0b-4545-95ca-a1265aa3c145.png">
 
-### Problem
+### The Problem
 While this Data is great for summarization. It is unfortunatly is not in a computer readable format. (Like a .CSV, .PY, .JS file or a stamdard Column structure) Before we can even begin our analysis,  we to need clean our data and transform it into a computer readable format. While the Data itself isn't Dirty. Only the architecture/format of the data is messy. 
 
 
-### Fix Data Structure
+#### Fix Data Structure
 We apply a re-format to transform the table into column structure. We add the products, into a product column. 
 
 <img width="1615" alt="Screen Shot 2022-01-17 at 7 31 20 AM" src="https://user-images.githubusercontent.com/83923903/149799521-88d07687-2ea0-4fff-aaa9-176c1b0f8d2c.png">
@@ -43,7 +43,7 @@ Now that the structural format is fixed, and some calculations perofrmed. We can
 
 <img width="1016" alt="Screen Shot 2022-01-17 at 7 55 33 AM" src="https://user-images.githubusercontent.com/83923903/149802049-7be6998c-e7e6-4578-9db0-503589f7bb68.png">
 
-### Now that we Have our Data analysed. We Create a Slide deck.
+### Now that we Have our Data analysed. We Create a Slide deck, and present it to Jons team.
 
 ## TLDR of Slide Deck
 * Widget is our fastest growing product With the highest User increase this year.
