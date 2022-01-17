@@ -1,4 +1,4 @@
-# Growth-Data-Analysis-
+# Growth-Data-Analysis
 Growth Data Analysis
 
 ### Original Data
