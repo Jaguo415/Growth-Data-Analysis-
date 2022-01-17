@@ -6,11 +6,11 @@ Growth Data Analysis
 <img width="1039" alt="Screen Shot 2022-01-17 at 7 27 42 AM" src="https://user-images.githubusercontent.com/83923903/149799055-02eb5196-2e0b-4545-95ca-a1265aa3c145.png">
 
 ### The Problem
-While this Data is great for summarization. It is unfortunatly is not in a computer readable format. (Like a .CSV, .PY, .JS file or a stamdard Column structure) Before we can even begin our analysis,  we to need clean our data and transform it into a computer readable format. While the Data itself isn't Dirty. Only the architecture/format of the data is messy. 
+While this Data is great for summarization. It is unfortunatly is not in a computer readable format. (Like a .CSV, .PY, .JS file nor a standard Column table structure) Before we can begin our analysis,  we must clean our data and transform it into a computer readable format. While the Data itself isn't Dirty. We identified the architecture/format of the data is quite messy. 
 
 
 #### Fix Data Structure
-We apply a re-format to transform the table into column structure. We add the products, into a product column. 
+* We apply a re-format to transform the table into column structure. We add the products, into their own product column. 
 
 <img width="1615" alt="Screen Shot 2022-01-17 at 7 31 20 AM" src="https://user-images.githubusercontent.com/83923903/149799521-88d07687-2ea0-4fff-aaa9-176c1b0f8d2c.png">
 
@@ -25,13 +25,13 @@ We apply a re-format to transform the table into column structure. We add the pr
 <img width="1546" alt="Screen Shot 2022-01-17 at 7 43 25 AM" src="https://user-images.githubusercontent.com/83923903/149800887-29773cf0-2d50-4187-8a0e-d0591f113e84.png">
 
 
-Now that the structural format is fixed, and some calculations perofrmed. We can upload our Data to Tableau.
+* Now that the structural format is fixed, and some calculations perofrmed. We can upload our Data to Tableau.
 
 ### Connecting GSheets with Tableau
 <img width="1672" alt="Screen Shot 2022-01-17 at 7 50 36 AM" src="https://user-images.githubusercontent.com/83923903/149801257-3253f756-9a68-489f-bb7c-721f197c2bc0.png">
 
 
-### We build new visuals/metrics in Tableau Worksheets. Total of 13 Worksheets.
+### We build new visuals/metrics in Tableau Worksheets. We create a Total of 13 Worksheets.
 <img width="1612" alt="Screen Shot 2022-01-17 at 7 52 20 AM" src="https://user-images.githubusercontent.com/83923903/149802541-0eaecac7-2b8b-47ba-8a45-1c85c5688746.png">
 
 ### We Combine Worksheets to make Dashboards
